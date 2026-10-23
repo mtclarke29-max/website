@@ -33,7 +33,7 @@ Michelle.T.Clarke@dartmouth.edu · [michelletclarke.com](https://michelletclarke
 
 ### Articles and book chapters
 
-1. Clarke, Michelle T. 2025. “Liberty, the People, and Republican Constitutionalism in Cicero’s *Pro Rabirio perduellionis reo*.” *Polis: The Journal for Ancient Greek and Roman Political Thought* 42 (1): 9–28.
+1. Clarke, Michelle T. 2025. “Liberty, the People, and Republican Constitutionalism in Cicero’s *Pro Rabirio perduellionis reo*.” *Polis: The Journal for Ancient Greek and Roman Political Thought* 42 (1): 9–28. https://doi.org/10.1163/20512996-12340461
 2. Clarke, Michelle T. 2023. “*Boni* Gone Bad: Cicero’s Critique of Epicureanism in *De finibus* 1 and 2.” *Polis: The Journal for Ancient Greek and Roman Political Thought* 40 (1): 25–43. https://doi.org/10.1163/20512996-12340389
 3. Clarke, Michelle T. 2022. “Curing Virtue: Epicureanism and Erotic Fantasy in Machiavelli’s *Mandragola*.” *Political Theory* 50 (6): 913–938. https://doi.org/10.1177/00905917221095859
 4. Clarke, Michelle T. 2022. “Machiavelli’s Virtuous Princes: Rhetoric, Power, and the Politics of Ironic Historiography.” *Journal of Politics* 84 (1): 483–495. https://doi.org/10.1086/715596

@@ -84,7 +84,7 @@ PUBS = [
          title="Liberty, the People, and Republican Constitutionalism in Cicero’s Pro Rabirio perduellionis reo",
          ital="Pro Rabirio perduellionis reo",
          venue="Polis: The Journal for Ancient Greek and Roman Political Thought", vol="42", no="1", pages="9–28",
-         url="https://brill.com/view/journals/agpt/42/1/article-p9_3.xml", doi=None,
+         url="https://doi.org/10.1163/20512996-12340461", doi="10.1163/20512996-12340461",
          summary="Reads Cicero’s 63 BCE defense of Gaius Rabirius, accused of treason for his part in killing the tribune Saturninus decades earlier, as a concentrated statement of Cicero’s idea of liberty. Cicero ties libertas less to popular safeguards like provocatio (appeal to the people) and auxilium (tribunician aid) than to the consensus of good citizens, presenting liberty as the calm security of being protected from the morally degenerate and grounding it in the self-regulation of Rome’s ruling elite.",
          topics=["Cicero", "Roman liberty", "Senatus consultum ultimum", "Provocatio", "Elite leadership", "Republicanism"]),
     dict(key="clarke2023boni", kind="article", year=2023,

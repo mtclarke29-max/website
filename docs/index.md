@@ -46,7 +46,7 @@ Across these projects, I approach the history of political thought as a source o
 
 ## Articles and chapters
 
-- Clarke, Michelle T. 2025. “Liberty, the People, and Republican Constitutionalism in Cicero’s Pro Rabirio perduellionis reo.” Polis: The Journal for Ancient Greek and Roman Political Thought 42, no. 1 (2025): 9–28. https://brill.com/view/journals/agpt/42/1/article-p9_3.xml
+- Clarke, Michelle T. 2025. “Liberty, the People, and Republican Constitutionalism in Cicero’s Pro Rabirio perduellionis reo.” Polis: The Journal for Ancient Greek and Roman Political Thought 42, no. 1 (2025): 9–28. https://doi.org/10.1163/20512996-12340461
   - Summary: Reads Cicero’s 63 BCE defense of Gaius Rabirius, accused of treason for his part in killing the tribune Saturninus decades earlier, as a concentrated statement of Cicero’s idea of liberty. Cicero ties libertas less to popular safeguards like provocatio (appeal to the people) and auxilium (tribunician aid) than to the consensus of good citizens, presenting liberty as the calm security of being protected from the morally degenerate and grounding it in the self-regulation of Rome’s ruling elite.
   - Topics: Cicero, Roman liberty, Senatus consultum ultimum, Provocatio, Elite leadership, Republicanism
 - Clarke, Michelle T. 2023. “Boni Gone Bad: Cicero’s Critique of Epicureanism in De Finibus I and II.” Polis: The Journal for Ancient Greek and Roman Political Thought 40, no. 1 (2023): 25–43. https://doi.org/10.1163/20512996-12340389

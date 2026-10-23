@@ -2,7 +2,7 @@
 
 Michelle T. Clarke. Journal article, 2025.
 Polis: The Journal for Ancient Greek and Roman Political Thought 42, no. 1 (2025): 9–28.
-Publisher: https://brill.com/view/journals/agpt/42/1/article-p9_3.xml
+DOI: https://doi.org/10.1163/20512996-12340461
 Author's site: https://michelletclarke.com/
 
 ## Summary
@@ -20,7 +20,7 @@ Reads Cicero’s 63 BCE defense of Gaius Rabirius, accused of treason for his pa
 
 ## How to cite
 
-Clarke, Michelle T. “Liberty, the People, and Republican Constitutionalism in Cicero’s Pro Rabirio perduellionis reo.” *Polis: The Journal for Ancient Greek and Roman Political Thought* 42, no. 1 (2025): 9–28.
+Clarke, Michelle T. “Liberty, the People, and Republican Constitutionalism in Cicero’s Pro Rabirio perduellionis reo.” *Polis: The Journal for Ancient Greek and Roman Political Thought* 42, no. 1 (2025): 9–28. https://doi.org/10.1163/20512996-12340461.
 
 ```bibtex
 @article{clarke2025rabirio,
@@ -31,7 +31,8 @@ Clarke, Michelle T. “Liberty, the People, and Republican Constitutionalism in 
   volume    = {42},
   number    = {1},
   pages     = {9--28},
-  url       = {https://brill.com/view/journals/agpt/42/1/article-p9_3.xml}
+  doi       = {10.1163/20512996-12340461},
+  url       = {https://doi.org/10.1163/20512996-12340461}
 }
 ```
 
