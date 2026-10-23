@@ -1,0 +1,5 @@
+# Michelle T. Clarke — all crawlers welcome, including AI and research crawlers.
+User-agent: *
+Allow: /
+
+Sitemap: https://michelletclarke.com/sitemap.xml
